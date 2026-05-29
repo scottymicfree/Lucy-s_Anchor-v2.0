@@ -1,0 +1,23 @@
+{
+  "classification": "AGENT_CORE",
+  "architecture": "Modular AI platform containing executive coordinator agents, task managers, and offline-compatible logic verification checkpoints.",
+  "codingStyle": "Use TypeScript/React frontend and Python backend components. Maintain strict JSON schema structured outputs and detailed execution logs.",
+  "preferredPatterns": [
+    "Agent supervisor delegate patterns",
+    "Heuristic policy checks on user intents"
+  ],
+  "knownProblems": [
+    "Context window overflow when feeding multiple repository files simultaneously.",
+    "Prompt drift during multi-agent supervisor loops."
+  ],
+  "dependencies": [
+    "E.M.M.A",
+    "lucy-prime-standalone"
+  ],
+  "relatedProjects": [
+    "E.M.M.A",
+    "lucy-core-ai-powered by emma",
+    "lucy-prime-standalone"
+  ],
+  "lastUpdated": "2026-05-29T21:19:00Z"
+}

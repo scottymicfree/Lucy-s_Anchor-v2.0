@@ -1,0 +1,12 @@
+{
+  "architecture": "FiveM Lua script structures with server-side and client-side separation. Integrates custom NPC behaviors, gang zones, and server performance telemetry.",
+  "codingStyle": "Standard Lua syntax, local variable naming conventions, performance optimization to prevent tick rate stuttering, and explicit client-server event triggers.",
+  "knownProblems": [
+    "High CPU tick rates during NPC state updates",
+    "Race conditions on server database inventory syncs"
+  ],
+  "preferredPatterns": [
+    "Vector3 coordinate arithmetic math helpers",
+    "Optimized execution intervals for status updates"
+  ]
+}

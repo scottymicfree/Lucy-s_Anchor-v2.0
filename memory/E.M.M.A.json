@@ -1,0 +1,22 @@
+{
+  "classification": "SOVEREIGN_KERNEL",
+  "architecture": "Distributed sovereign kernel mimicking dual-process biology. Features system-1 fast events, system-2 Ray Slow reasoning, and eBPF kernel network filters.",
+  "codingStyle": "Follow PEP8 standard, enforce absolute type hinting, use async await pattern, document all modules, and handle exceptions explicitly without silent failures.",
+  "preferredPatterns": [
+    "Merkle sequence cryptography verification on all state logs",
+    "FUSE filesystem virtual disk bindings with sandbox namespaces"
+  ],
+  "knownProblems": [
+    "High VRAM memory leaks when scheduling multi-agent debates under heavy Ray threads.",
+    "eBPF compilation triggers headers mismatch when kernel versions drift."
+  ],
+  "dependencies": [
+    "lucy-core-ai",
+    "lucy-prime-standalone"
+  ],
+  "relatedProjects": [
+    "lucy-core-ai",
+    "lucy-prime-standalone"
+  ],
+  "lastUpdated": "2026-05-29T21:19:00Z"
+}

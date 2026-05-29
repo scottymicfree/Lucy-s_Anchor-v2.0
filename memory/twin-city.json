@@ -1,0 +1,22 @@
+{
+  "classification": "RAGE_MODDING",
+  "architecture": "GTA V RAGE engine map compilation using CodeWalker.Core.dll. Operates as a local C# daemon translating JSON spatial payloads to binary formats.",
+  "codingStyle": "C#/.NET 9 headless services, Sollumz XML mappings, and secure memory-mapped file transfer buffers.",
+  "preferredPatterns": [
+    "Centroid origin shifting translations to prevent coordinate drift",
+    "NATS broker asynchronous messaging streams"
+  ],
+  "knownProblems": [
+    "Rockstar asset encryption key mismatches during headless compiles.",
+    "Mesh non-manifold vertex holes in Google Maps photogrammetry models."
+  ],
+  "dependencies": [
+    "alpha-matrix-engine-ame",
+    "civil-unrest-framework-hub"
+  ],
+  "relatedProjects": [
+    "civil-unrest-framework-hub",
+    "alpha-matrix-engine-ame"
+  ],
+  "lastUpdated": "2026-05-29T21:19:00Z"
+}

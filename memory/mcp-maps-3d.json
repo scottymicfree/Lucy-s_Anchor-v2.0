@@ -1,0 +1,21 @@
+{
+  "classification": "SPATIAL_MCP",
+  "architecture": "Model Context Protocol (MCP) server exposing map tools (view_location_google_maps, directions_on_google_maps) to the LLM agent.",
+  "codingStyle": "TypeScript, MCP SDK server endpoints, Zod schema validation parameters, and JSON-RPC stdio command-line streams.",
+  "preferredPatterns": [
+    "MapQueryHandler callbacks to sync map locations",
+    "JSON-RPC 2.0 message protocols"
+  ],
+  "knownProblems": [
+    "Stdio process pipe crashes when standard output is printed by internal libraries.",
+    "API key quota exclusions when querying directions repeatedly."
+  ],
+  "dependencies": [
+    "lucy-core-ai"
+  ],
+  "relatedProjects": [
+    "lucy-core-ai",
+    "twin city"
+  ],
+  "lastUpdated": "2026-05-29T21:19:00Z"
+}

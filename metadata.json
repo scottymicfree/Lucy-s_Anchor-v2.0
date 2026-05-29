@@ -1,0 +1,6 @@
+{
+  "name": "Lucy Anchor",
+  "description": "Lucy Anchor Spatial Workspace • Helix Protocol Phase 2. A desktop-class dark cyber dashboard with HelixStudio integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

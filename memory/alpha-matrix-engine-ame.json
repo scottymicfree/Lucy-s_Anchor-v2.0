@@ -1,0 +1,23 @@
+{
+  "classification": "LIVING_MATRIX",
+  "architecture": "Visual 3D scene-graph editor powered by React Three Fiber, Rapier rigid-body physics, and WebGL fragment post-processing shaders.",
+  "codingStyle": "Declarative R3F components, strict state synchronization using Zustand, physics scaling boundaries, and custom mesh shaders.",
+  "preferredPatterns": [
+    "Global snaps alignment matrix translations",
+    "WebSocket native bridge push transmissions on port 5556"
+  ],
+  "knownProblems": [
+    "32-bit single-precision float coordinate origin jitter when scaling scenes over 500m.",
+    "Frame rate stuttering under heavy post-processing ambient occlusion filters."
+  ],
+  "dependencies": [
+    "lucy-core-ai",
+    "lucy-prime-standalone"
+  ],
+  "relatedProjects": [
+    "lucy-core-ai",
+    "lucy-prime-standalone",
+    "twin city"
+  ],
+  "lastUpdated": "2026-05-29T21:19:00Z"
+}

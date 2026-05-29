@@ -1,0 +1,22 @@
+{
+  "classification": "SWARM_SIMULATION",
+  "architecture": "Evolutionary state trackers monitoring Agent-to-Agent convergence, Co-Evolution Charters, and swarm simulation nodes.",
+  "codingStyle": "Python simulations, Weaviate vector index decay systems, and semantic state contradiction alerts.",
+  "preferredPatterns": [
+    "Vector cosine similarity validation checks",
+    "Supervisor supervisor supervisor hierarchy swarm topology"
+  ],
+  "knownProblems": [
+    "State drift and infinite reasoning loops under complex contradictory prompts.",
+    "Database lock errors when logging simultaneous transactions."
+  ],
+  "dependencies": [
+    "lucy-core-ai",
+    "E.M.M.A"
+  ],
+  "relatedProjects": [
+    "lucy-core-ai",
+    "E.M.M.A"
+  ],
+  "lastUpdated": "2026-05-29T21:19:00Z"
+}

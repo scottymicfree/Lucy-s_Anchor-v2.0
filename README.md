@@ -1,7 +1,6 @@
 # 🧠 Lucy Anchor & Ecosystem Core — Sovereign Engineering Platform v1.0
 
-> 🌐 **Fenton Lab official website:** [fentonlabai.pages.dev](https://fentonlabai.pages.dev/)  
-> Planned primary domain: `fentonlabai.com` (custom-domain connection pending).
+> 🌐 **Fenton Lab official website:** [fentonlabai.com](https://fentonlabai.com/)
 
 Welcome to the **Lucy Ecosystem**, a modular platform separating platform infrastructure (**Ecosystem Core**) from the visual command interface (**Lucy Anchor**).
 
